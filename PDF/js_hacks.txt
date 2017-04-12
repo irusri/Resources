@@ -1,0 +1,26 @@
+introduction
+
+angular 2 vs angular 1
+react vs vue
+rest ui
+
+java
+
+bundling
+node express mongodb
+
+reference_data_id,reference_code,reference_type,reference_type_value,category,link_id,description,effective_start_date,effective_end_date,created_date,created_by,updated_date,updated_by,
+current_status,del_indicator
+(2117,'','Administrative Unit','Branch','APP',null,'Generic master entries','11/5/2041','9/23/2069','5/20/2111',3,'11/5/2083',2,'Active','N'),
+
+var array = [2, 9, 9];
+array.indexOf(2);     // 0
+array.indexOf(7);     // -1
+array.indexOf(9);     // -1
+array.indexOf(9, 2);  // 2
+
+
+var a = ["a","b","c"];
+a.push("d");
+var b = a;
+console.log(b);
